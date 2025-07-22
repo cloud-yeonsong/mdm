@@ -17,7 +17,8 @@
 ---
 
 ## 전체적인 프로젝트 소개
-![이미지 2025  7  19  오후 8 01](https://github.com/user-attachments/assets/41d6fe90-f78f-46d8-9cbf-efc073c96027)
+<img width="2414" height="1244" alt="image" src="https://github.com/user-attachments/assets/8b6a6d76-487a-46d7-8bd1-16f4e10bc9ac" />
+
 
 - AI 동영상 분석 기술을 활용하여 **교통사고 영상으로 과실비율을 예측**하는 웹 기반 서비스  
 - 교통사고 영상 속 객체 인식(DetectoRS)과 사고 상황 분석(VTN)을 통해 과실 비율을 측정하고 그 결과를 시각적으로 사용자에게 제공
