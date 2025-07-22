@@ -6,6 +6,15 @@
 > **담당 역할**: 백엔드 개발 및 AI 모델 연동
 <br>
 
+## 👥 팀원
+
+| 역할 | 이름 | GitHub |
+|------|------|--------|
+| 프론트엔드 & 디자인 | 전민혁 | - |
+| 백엔드 & AI | 가한솔 | https://github.com/kaa08 |
+| 백엔드 & AI | 이연송 👩🏻‍💻 | https://github.com/cloud-yeonsong |
+| AI & 디자인 | 이예지 | - |
+
 ## 전체적인 프로젝트 소개
 ![이미지 2025  7  19  오후 8 01](https://github.com/user-attachments/assets/41d6fe90-f78f-46d8-9cbf-efc073c96027)
 
@@ -18,12 +27,18 @@
 
 | 구분 | 기술 |
 |------|------|
-| **Frontend** | React, HTML/CSS/JS, Next.js |
-| **Backend** | Spring Boot, JPA, Spring Security |
+| **Frontend** | React, HTML/CSS/JavaScript, Next.js |
+| **Backend** | Spring Boot, Spring Data JPA, Spring Security |
 | **AI Server** | Flask (Python) |
-| **AI Framework** | PyTorch, CUDA, DetectoRS, VTN |
+| **AI Framework** | PyTorch, CUDA, CUDNN, DetectoRS, VTN |
 | **Database** | MariaDB |
-| **협업/개발 도구** | Git, GitHub, Visual Studio Code, IntelliJ, PyCharm |
+| **Middleware / 모듈** | Passport.js, Body-parser, Multer, fs, morgan |
+| **개발 도구 (IDE/에디터)** | Visual Studio Code, IntelliJ IDEA, PyCharm, ATOM |
+| **협업 도구** | Git, GitHub |
+| **운영체제 (OS)** | CentOS |
+| **서버 정보** | TCP Port: 60011, DNS: ceprj.gachon.ac.kr:60011 |
+| **서버 하드웨어** | CPU: Intel Core2Duo / RAM: 4GB / DISK: 500GB (SATAII) / Network: 100Mbps |
+
 
 ---
 
@@ -112,22 +127,16 @@
 
 ## 느낀 점
 
-처음에는 AI 기반 서비스라는 점에서 부담이 있었지만,  
-객체 인식부터 사고 유형 분류, 과실 비율 예측까지 **AI 모델을 실제 웹 서비스에 통합**하며  
-AI와 백엔드 간 연결 구조에 대한 이해가 깊어졌습니다.
-
-또한 복잡한 데이터를 시각적으로 보여주는 과정에서 **프론트-백엔드-데이터베이스-모델 간 전체 흐름**을 경험할 수 있었고,  
-이 경험은 실무에서도 큰 자산이 될 거라고 생각합니다.
+프로젝트를 시작할 당시 AI에 대한 지식은 학교 수업을 통한 이론 수준에 불과해 두려움이 컸습니다. 특히 용량이 큰 동영상을 활용해야 한다는 점이 부담스럽고 당황스러웠지만 객체 인식부터 사고 유형 분류, 과실 비율 예측까지 직접 경험하며 웹 서비스에 통합해본 과정은 실전 감각을 키우는 데 큰 도움이 되었습니다. 특히 AI와 백엔드 간 통신 구조를 직접 설계하며 두 영역에 대한 이해가 깊어졌고 프론트–백엔드–DB–AI 모델이 연결되는 전체 흐름을 경험한 것은 매우 값진 경험이었습니다.
+<br>
+설계 단계에서는 DB 연관관계, API 흐름 등을 꼼꼼히 고려하며 진행했기에, 개발 과정에서도 효율적으로 작업할 수 있었습니다. 백엔드 개발자로서 API 설계, JWT 인증, 관리자 기능 구현 등 다양한 기능을 직접 구현하면서 기술 역량을 키울 수 있었고, 연동 과정에서의 문제를 해결하는 경험은 제 진로에 대한 확신을 더욱 단단히 해주었습니다.
+<br>
+무엇보다 팀원들과 서로를 존중하고 끝까지 협력했던 경험은 이번 프로젝트의 가장 큰 성과이자 의미 있는 기억으로 남았습니다.
+<br>
 
 —
 
 ## 시연 동영상
 
-## 👥 팀원
+https://github.com/user-attachments/assets/87687294-c19b-4cfa-9673-1f2a7a20689f
 
-| 역할 | 이름 | GitHub |
-|------|------|--------|
-| 프론트엔드 & 디자인 | 전민혁 | - |
-| 백엔드 & AI | 가한솔 | https://github.com/kaa08 |
-| 백엔드 & AI | 이연송 👩🏻‍💻 | https://github.com/cloud-yeonsong |
-| AI & 디자인 | 이예지 | - |
